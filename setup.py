@@ -1,13 +1,17 @@
-import pathlib
 from setuptools import setup
+
+with open("README.md", encoding="utf8") as fh:
+        long_description = fh.read()
 
 from distutils.core import setup
 setup(
   name = 'Discord-Emotes',         # How you named your package folder (MyLib)
   packages = ['Discord-Emotes'],   # Chose the same as "name"
-  version = '1.0',      # Start with a small number and increase it with every change you make
+  version = '1.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Use it to get gif for commands like pat, slap, poke, hug and more!!!!',   # Give a short description about your library
+  long_description = long_description,
+  long_description_content_type="text/markdown",
   author = 'TheRamann',                   # Type in your name
   author_email = 'theramann.dev@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/TheRamann/Discord-Emotes-Python',   # Provide either the link to your github or to your website

@@ -23,9 +23,11 @@ neko()
 ngif()
 cuddle()
 ```
+All these functions will print a gif related to the function. <br>
+You can use them anywhere you want.
 
 # Other emotes <img src="https://cdn.discordapp.com/emojis/781428090454147092.gif?v=1" alt = "✏" width="35px">
- <font size="3"> There are these emotes :- <br>
+ There are these emotes :- <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> hug <br> 
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> kiss <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> pat <br>
@@ -35,7 +37,6 @@ cuddle()
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> smug <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> cuddle <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> dog <br>
-</font>
 
 # Like the package? <img src="https://cdn.discordapp.com/emojis/599598716521021441.gif?v=1" alt = "✏" width="35px">
 <a href = "https://www.buymeacoffee.com/TheRamann">

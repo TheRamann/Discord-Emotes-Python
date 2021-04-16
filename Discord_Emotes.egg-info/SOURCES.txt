@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+Discord-Emotes/__init__.py
+Discord-Emotes/scripts.py
+Discord_Emotes.egg-info/PKG-INFO
+Discord_Emotes.egg-info/SOURCES.txt
+Discord_Emotes.egg-info/dependency_links.txt
+Discord_Emotes.egg-info/requires.txt
+Discord_Emotes.egg-info/top_level.txt
