@@ -1,0 +1,1 @@
+from Discord-Emotes.scripts import smug, hug, kiss, pat, poke, slap, tickle, neko, ngif, cuddle
