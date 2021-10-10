@@ -23,11 +23,11 @@ neko()
 ngif()
 cuddle()
 ```
-All these functions will print a gif related to the function. <br>
+All these functions will return a gif related to the function. <br>
 You can use them anywhere you want.
 
 # Other emotes <img src="https://cdn.discordapp.com/emojis/781428090454147092.gif?v=1" alt = "✏" width="35px">
- There are these emotes :- <br>
+ Names of all the functions <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> hug <br> 
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> kiss <br>
 <img src="https://cdn.discordapp.com/emojis/582077820843327490.png?v=1" alt = "📝" width="15px"> pat <br>
