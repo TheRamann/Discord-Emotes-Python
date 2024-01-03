@@ -2,7 +2,7 @@ import requests
 
 
 def smug():
-    x = requests.get('https://nekos.life/api/v2/img/smug'
+    x = requests.get('https://nekos.life/api/v2/img/smug')
     return x.json()['url']
 
 
